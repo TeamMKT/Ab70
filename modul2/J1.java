@@ -1,0 +1,6 @@
+package modul2;
+
+public class J1 
+{
+
+}
